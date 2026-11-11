@@ -1,0 +1,6 @@
+AGROCIMARRUDOS
+Plataforma web para la venta de productos del campo llanero.
+Proyecto individual - Lenguaje de programación III.
+
+ESTADO: en construcción. Aún no hay código ni base de datos.
+Este archivo se completará con los requisitos y los pasos de instalación y ejecución cuando exista algo que ejecutar.
